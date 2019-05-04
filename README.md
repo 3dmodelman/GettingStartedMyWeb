@@ -1,4 +1,4 @@
-# GettingStartedMyWeb2
+# GettingStartedMyWeb
 Welcome to My Web.  It is used for Getting Started with Git and GitHub.
 My Web - Version 1.0.
 
