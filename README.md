@@ -1,5 +1,6 @@
 # GettingStartedMyWeb2
-
+Welcome to My Web.  It is used for Getting Started with Git and GitHub.
+My Web - Version 1.0.
 
 ## Markdown Files on Stackoverflow
 
